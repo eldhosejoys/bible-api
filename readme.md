@@ -19,7 +19,7 @@ Getting bible verse data as json.
 ##### Example:
 
 ```http
-  GET /45/6/6.json
+  GET /malayalam/45/6/6.json
 ```
 
 #### Supported Languages
