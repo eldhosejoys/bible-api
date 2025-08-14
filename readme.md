@@ -24,4 +24,4 @@ Getting bible verse data as json.
 
 #### Supported Languages
 
-• malayalam
+- malayalam
