@@ -1,7 +1,10 @@
 {
   "verse": "ദൈവഭയത്തോടെ വാഴുന്നവൻ, മേഘമില്ലാത്ത പ്രഭാതകാലത്തു സൂര്യോദയത്തിങ്കലെ പ്രകാശത്തിന്നു തുല്യൻ; മഴെക്കു പിമ്പു സൂര്യകാന്തിയാൽ ഭൂമിയിൽ മുളെക്കുന്ന ഇളമ്പുല്ലിന്നു തുല്യൻ.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "23",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "39",
   "verseNumber": "4",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

@@ -1,7 +1,10 @@
 {
   "verse": "ഒന്നാം മാസം ഒന്നാം തിയ്യതി അവൻ ബാബേലിൽനിന്നു യാത്ര പുറപ്പെട്ടു; തന്റെ ദൈവത്തിന്റെ കൈ തനിക്കു അനുകൂലമായിരുന്നതുകൊണ്ടു അവൻ അഞ്ചാം മാസം ഒന്നാം തിയ്യതി യെരൂശലേമിൽ എത്തി.",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "7",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "28",
   "verseNumber": "9",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

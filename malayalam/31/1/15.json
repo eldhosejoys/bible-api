@@ -1,7 +1,10 @@
 {
   "verse": "സകലജാതികൾക്കും യഹോവയുടെ നാൾ അടുത്തിരിക്കുന്നു; നീ ചെയ്തിരിക്കുന്നതുപോലെ നിന്നോടും ചെയ്യും; നിന്റെ പ്രവൃത്തി നിന്റെ തലമേൽ തന്നേ മടങ്ങിവരും.",
   "book": "31",
+  "chapterCount": "1",
   "chapter": "1",
+  "verseCountInBook": "21",
+  "verseCountInChapter": "21",
   "verseNumber": "15",
   "bookNameMalayalam": "ഓബദ്യാവ്",
   "bookNameEnglish": "Obadiah",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 853-841",
   "dateInMalayalam": "ബി.സി. 853-841",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "യിസ്രായേൽ രാജ്യത്തോട് ക്രൂരമായി പ്രവർത്തിച്ചതിന് ഏദോം നിവാസികളുടെ മേൽ വരുന്ന ശിക്ഷ."
+  "categoryInMalayalam": "പ്രവചനം"
 }

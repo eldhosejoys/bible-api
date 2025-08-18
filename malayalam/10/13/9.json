@@ -1,7 +1,10 @@
 {
   "verse": "ഉരുളിയോടെ എടുത്തു അവന്റെ മുമ്പിൽ വിളമ്പി; എന്നാൽ ഭക്ഷിപ്പാൻ അവന്നു ഇഷ്ടമായില്ല. എല്ലാവരെയും എന്റെ അടുക്കൽനിന്നു പുറത്താക്കുവിൻ എന്നു അമ്നോൻ പറഞ്ഞു. എല്ലാവരും അവന്റെ അടുക്കൽനിന്നു പുറത്തുപോയി.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "13",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "39",
   "verseNumber": "9",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

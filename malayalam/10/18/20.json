@@ -1,7 +1,10 @@
 {
   "verse": "യോവാബ് അവനോടു: നീ ഇന്നു സദ്വർത്തമാന ദൂതനാകയില്ല; ഇനി ഒരു ദിവസം സദ്വർത്തമാനം കൊണ്ടുപോകാം; രാജകുമാരൻ മരിച്ചിരിക്കകൊണ്ടു നീ ഇന്നു സദ്വർത്തമാന ദൂതനാകയില്ല എന്നു പറഞ്ഞു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "18",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "33",
   "verseNumber": "20",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

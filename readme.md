@@ -22,6 +22,17 @@ Getting bible verse data as json.
   GET /malayalam/45/6/6.json
 ```
 
+#### Get Summary of books:
+
+```http
+  GET /{book-number}/summary.json
+```
+##### Example:
+
+```http
+  GET /45/summary.json
+```
+
 #### Supported Languages
 
 - malayalam

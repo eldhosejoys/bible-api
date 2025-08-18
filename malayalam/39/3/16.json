@@ -1,7 +1,10 @@
 {
   "verse": "യഹോവാഭക്തന്മാർ അന്നു തമ്മിൽ തമ്മിൽ സംസാരിച്ചു; യഹോവ ശ്രദ്ധവെച്ചു കേട്ടു; യഹോവാഭക്തന്മാർക്കും അവന്റെ നാമത്തെ സ്മരിക്കുന്നവർക്കും വേണ്ടി അവന്റെ സന്നിധിയിൽ ഒരു സ്മരണപുസ്തകം എഴുതിവെച്ചിരിക്കുന്നു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "3",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "18",
   "verseNumber": "16",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

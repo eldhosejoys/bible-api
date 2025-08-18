@@ -1,7 +1,10 @@
 {
   "verse": "എന്തൊരു പ്രയാസം എന്നു പറഞ്ഞു നിങ്ങൾ അതിനോടു ചീറുന്നു; എന്നാൽ കടിച്ചുകീറിപ്പോയതിനെയും മുടന്തും ദീനവുമുള്ളതിനെയും നിങ്ങൾ കൊണ്ടുവന്നു അങ്ങനെ കാഴ്ചവെക്കുന്നു എന്നു സൈന്യങ്ങളുടെ യഹോവ അരുളിച്ചെയ്യുന്നു; അതിനെ ഞാൻ നിങ്ങളുടെ കയ്യിൽനിന്നു അംഗീകരിക്കുമോ എന്നു യഹോവ അരുളിച്ചെയ്യുന്നു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "1",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "14",
   "verseNumber": "13",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

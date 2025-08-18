@@ -1,7 +1,10 @@
 {
   "verse": "സെരുബ്ബാബേലിനോടുകൂടെ വന്നവർ: യേശുവ, നഹെമ്യാവു, സെരായാവു, രെയേലയാവു, മൊർദെഖായി, ബിൽശാൻ, മിസ്പാർ, ബിഗ്വായി, രെഹൂം, ബാനാ എന്നിവർ. യിസ്രായേൽജനത്തിലെ പുരുഷന്മാരുടെ എണ്ണമാവിതു:",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "2",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "70",
   "verseNumber": "2",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

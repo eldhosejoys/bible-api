@@ -1,7 +1,10 @@
 {
   "verse": "ലേശംപോലും സുബോധം ശേഷിച്ചിരുന്ന ഒരുത്തൻ ഒരിക്കലും അങ്ങനെ ചെയ്തിട്ടില്ല. എന്നാൽ ആ ഒരുത്തൻ എന്തു ചെയ്തു? ദൈവം വാഗ്ദാനം ചെയ്ത സന്തതിയെ അവൻ അന്വേഷിച്ചു. നിങ്ങളുടെ ഉള്ളിൽ സൂക്ഷിച്ചുകൊൾവിൻ; തന്റെ യൌവനത്തിലെ ഭാര്യയോടു ആരും അവിശ്വസ്തത കാണിക്കരുതു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "2",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "17",
   "verseNumber": "15",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

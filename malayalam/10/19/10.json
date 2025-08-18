@@ -1,7 +1,10 @@
 {
   "verse": "നമുക്കു രാജാവായി നാം അഭിഷേകം ചെയ്തിരുന്ന അബ്ശാലോമോ പടയിൽ പട്ടുപോയി. ആകയാൽ രാജാവിനെ തിരികെ കൊണ്ടുവരുന്ന കാര്യത്തിൽ നിങ്ങൾ അനങ്ങാതിരിക്കുന്നതു എന്തു എന്നു പറഞ്ഞു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "19",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "43",
   "verseNumber": "10",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

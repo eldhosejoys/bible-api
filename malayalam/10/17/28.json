@@ -1,7 +1,10 @@
 {
   "verse": "കിടക്കകളും കിണ്ണങ്ങളും മൺപാത്രങ്ങളും ദാവീദിന്നും കൂടെയുള്ള ജനത്തിന്നും ഭക്ഷിപ്പാൻ, കോതമ്പു, യവം, മാവു, മലർ, അമരക്ക, പയർ, പരിപ്പു, തേൻ,",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "17",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "29",
   "verseNumber": "28",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

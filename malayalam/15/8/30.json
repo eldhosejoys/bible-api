@@ -1,7 +1,10 @@
 {
   "verse": "അങ്ങനെ പുരോഹിതന്മാരും ലേവ്യരും ആ വെള്ളിയും പൊന്നും ഉപകരണങ്ങളും യെരൂശലേമിൽ ഞങ്ങളുടെ ദൈവത്തിന്റെ ആലയത്തിലേക്കു കൊണ്ടുപോകേണ്ടതിന്നു തൂക്കപ്രകാരം ഏറ്റുവാങ്ങി.",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "8",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "36",
   "verseNumber": "30",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

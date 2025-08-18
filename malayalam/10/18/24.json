@@ -1,7 +1,10 @@
 {
   "verse": "എന്നാൽ ദാവീദ് രണ്ടു പടിവാതിലിന്നു മദ്ധ്യേ ഇരിക്കയായിരുന്നു. കാവൽക്കാരൻ പടിവാതിലിന്നും മീതെ മതിലിന്റെ മുകളിൽ കയറി തല ഉയർത്തിനോക്കി ഒരുത്തൻ തനിച്ചു ഓടിവരുന്നതു കണ്ടു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "18",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "33",
   "verseNumber": "24",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

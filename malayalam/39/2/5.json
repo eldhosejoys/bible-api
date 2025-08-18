@@ -1,7 +1,10 @@
 {
   "verse": "അവനോടുള്ള എന്റെ നിയമം ജീവനും സമാധാനവുമായിരുന്നു; അവൻ ഭയപ്പെടേണ്ടതിന്നു ഞാൻ അവന്നു അവയെ കൊടുത്തു; അവൻ എന്നെ ഭയപ്പെട്ടു എന്റെ നാമംനിമിത്തം വിറെക്കയും ചെയ്തു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "2",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "17",
   "verseNumber": "5",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

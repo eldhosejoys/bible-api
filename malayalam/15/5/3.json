@@ -1,7 +1,10 @@
 {
   "verse": "ആ കാലത്തു നദിക്കു ഇക്കരെയുള്ള ദേശാധിപതിയായ തത്നായിയും ശെഥർ-ബോസ്നായിയും അവരുടെ കൂട്ടക്കാരും അവരുടെ അടുക്കൽ വന്നു അവരോടു: ഈ ആലയം പണിവാനും ഈ മതിൽ കെട്ടുവാനും നിങ്ങൾക്കു ആർ കല്പന തന്നു എന്നു ചോദിച്ചു.",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "5",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "17",
   "verseNumber": "3",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

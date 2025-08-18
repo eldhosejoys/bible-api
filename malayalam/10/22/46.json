@@ -1,7 +1,10 @@
 {
   "verse": "അന്യജാതിക്കാർ ക്ഷയിച്ചുപോകുന്നു; തങ്ങളുടെ ദുർഗ്ഗങ്ങളിൽനിന്നു അവർ വിറെച്ചു കൊണ്ടുവരുന്നു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "22",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "51",
   "verseNumber": "46",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

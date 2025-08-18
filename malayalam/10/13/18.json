@@ -1,7 +1,10 @@
 {
   "verse": "അവൾ നിലയങ്കിധരിച്ചിരുന്നു; രാജകുമാരികളായ കന്യകമാർ ഇങ്ങനെയുള്ള വസ്ത്രം ധരിക്ക പതിവായിരുന്നു. ബാല്യക്കാരൻ അവളെ പുറത്തിറക്കി വാതിൽ അടെച്ചുകളഞ്ഞു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "13",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "39",
   "verseNumber": "18",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

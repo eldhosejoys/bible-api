@@ -1,7 +1,10 @@
 {
   "verse": "അപ്പോൾ ഹാനൂൻ ദാവീദിന്റെ ഭൃത്യന്മാരെ പിടിച്ചു അവരുടെ താടിയെ പാതി ചിരപ്പിച്ചു അവരുടെ അങ്കികളെ നടുവിൽ ആസനംവരെ മുറിപ്പിച്ചു അവരെ അയച്ചു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "10",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "19",
   "verseNumber": "4",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

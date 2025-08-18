@@ -1,7 +1,10 @@
 {
   "verse": "ആകയാൽ ഞാൻ നഗരം പിടിച്ചിട്ടു കീർത്തി എനിക്കാകാതിരിക്കേണ്ടതിന്നു നീ ശേഷം ജനത്തെ ഒരുമിച്ചു കൂട്ടി നഗരത്തിന്നു നേരെ പാളയം ഇറങ്ങി അതിനെ പിടിച്ചുകൊൾക എന്നു പറയിച്ചു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "12",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "31",
   "verseNumber": "28",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

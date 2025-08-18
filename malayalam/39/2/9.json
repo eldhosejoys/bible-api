@@ -1,7 +1,10 @@
 {
   "verse": "അങ്ങനെ നിങ്ങൾ എന്റെ വഴികളെ പ്രമാണിക്കാതെ ന്യായപാലനത്തിൽ പക്ഷഭേദം കാണിച്ചതുകൊണ്ടു ഞാനും നിങ്ങളെ സകലജനത്തിന്നും നിന്ദിതരും നീചരുമാക്കിയിരിക്കുന്നു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "2",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "17",
   "verseNumber": "9",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

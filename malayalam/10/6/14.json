@@ -1,7 +1,10 @@
 {
   "verse": "ദാവീദ് പഞ്ഞിനൂലങ്കി ധരിച്ചുകൊണ്ടു പൂർണ്ണശക്തിയോടെ യഹോവയുടെ മുമ്പാകെ നൃത്തം ചെയ്തു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "6",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "23",
   "verseNumber": "14",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

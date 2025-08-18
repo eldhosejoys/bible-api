@@ -1,7 +1,10 @@
 {
   "verse": "യഹോവയുടെ പെട്ടകം ഗിത്യനായ ഓബേദ്-എദോമിന്റെ വീട്ടിൽ മൂന്നുമാസം ഇരുന്നു; യഹോവ ഓബേദ്-എദോമിനെയും അവന്റെ കുടുംബത്തെ ഒക്കെയും അനുഗ്രഹിച്ചു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "6",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "23",
   "verseNumber": "11",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

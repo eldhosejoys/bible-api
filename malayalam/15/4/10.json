@@ -1,7 +1,10 @@
 {
   "verse": "മഹാനും ശ്രേഷ്ഠനുമായ അസ്നപ്പാർ പിടിച്ചു കൊണ്ടുവന്ന് ശമര്യപട്ടണങ്ങളിലും നദിക്കു ഇക്കരെ മറ്റു ദിക്കുകളിലും പാർപ്പിച്ചിരിക്കുന്ന ശേഷംജാതികളും ഇത്യാദി.",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "4",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "24",
   "verseNumber": "10",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

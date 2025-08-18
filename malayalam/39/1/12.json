@@ -1,7 +1,10 @@
 {
   "verse": "നിങ്ങളോ: യഹോവയുടെ മേശ മലിനമായിരിക്കുന്നു; അവന്റെ ഭോജനമായ അതിന്റെ അനുഭവം നിന്ദ്യം ആകുന്നു എന്നു പറയുന്നതിനാൽ നിങ്ങൾ എന്റെ നാമത്തെ അശുദ്ധമാക്കുന്നു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "1",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "14",
   "verseNumber": "12",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

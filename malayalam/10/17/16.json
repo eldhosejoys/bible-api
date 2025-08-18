@@ -1,7 +1,10 @@
 {
   "verse": "ആകയാൽ നിങ്ങൾ വേഗത്തിൽ ആളയച്ചു: ഈ രാത്രി മരുഭൂമിയിലേക്കുള്ള കടവിങ്കൽ പാർക്കരുതു; രാജാവിന്നും കൂടെയുള്ള സകലജനത്തിന്നും നാശം വരാതിരിക്കേണ്ടതിന്നു ഏതു വിധേനയും അക്കരെ കടന്നുപോകേണം എന്നു ദാവീദിനെ അറിയിപ്പിൻ എന്നു പറഞ്ഞു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "17",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "29",
   "verseNumber": "16",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

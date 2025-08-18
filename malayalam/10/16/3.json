@@ -1,7 +1,10 @@
 {
   "verse": "നിന്റെ യജമാനന്റെ മകൻ എവിടെ എന്നു രാജാവു ചോദിച്ചതിന്നു സീബാ രാജാവിനോടു: അവൻ യെരൂശലേമിൽ പാർക്കുന്നു; യിസ്രായേൽഗൃഹം എന്റെ അപ്പന്റെ രാജത്വം ഇന്നു എനിക്കു തിരികെ തരുമെന്നു അവൻ പറയുന്നു എന്നു പറഞ്ഞു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "16",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "23",
   "verseNumber": "3",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

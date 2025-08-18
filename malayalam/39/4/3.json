@@ -1,7 +1,10 @@
 {
   "verse": "ഞാൻ ഉണ്ടാക്കുവാനുള്ള ദിവസത്തിൽ ദുഷ്ടന്മാർ നിങ്ങളുടെ കാലിൻ കീഴിൽ വെണ്ണീർ ആയിരിക്കകൊണ്ടു നിങ്ങൾ അവരെ ചവിട്ടിക്കളയും എന്നു സൈന്യങ്ങളുടെ യഹോവ അരുളിച്ചെയ്യുന്നു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "4",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "6",
   "verseNumber": "3",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

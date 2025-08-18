@@ -1,7 +1,10 @@
 {
   "verse": "നിങ്ങളുടെ വാക്കുകൾ എന്റെനേരെ അതികഠിനമായിരിക്കുന്നു എന്നു യഹോവ അരുളിച്ചെയ്യുന്നു. എന്നാൽ നിങ്ങൾ: ഞങ്ങൾ നിന്റെ നേരെ എന്തു സംസാരിക്കുന്നു എന്നു ചോദിക്കുന്നു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "3",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "18",
   "verseNumber": "13",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

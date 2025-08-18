@@ -1,7 +1,10 @@
 {
   "verse": "അതിന്റെ പ്രവാചകന്മാർ ലഘുബുദ്ധികളും വിശ്വാസപാതകന്മാരും ആകുന്നു; അതിന്റെ പുരോഹിതന്മാർ വിശുദ്ധമന്ദിരത്തെ അശുദ്ധമാക്കി, ന്യായപ്രമാണത്തെ ബലാൽക്കാരം ചെയ്തിരിക്കുന്നു.",
   "book": "36",
+  "chapterCount": "3",
   "chapter": "3",
+  "verseCountInBook": "53",
+  "verseCountInChapter": "20",
   "verseNumber": "4",
   "bookNameMalayalam": "സെഫന്യാവ്",
   "bookNameEnglish": "Zephaniah",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 640-621",
   "dateInMalayalam": "ബി.സി. 640-621",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "യഹോവയുടെ ദിനം, യെഹൂദാ ജനം അവരുടെ പാപങ്ങളെക്കുറിച്ച് അനുതപിക്കുന്നില്ലെങ്കിൽ അവരുടെ മേൽ വരുന്ന ശിക്ഷ, അന്ത്യനാളുകളിൽ ദൈവം അവരുടെ മേൽ അനുഗ്രഹങ്ങൾ വർഷിക്കുമെന്നുള്ള വാഗ്ദത്തം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

@@ -1,7 +1,10 @@
 {
   "verse": "നീ സഞ്ചരിച്ചുവന്ന എല്ലായിടത്തും ഞാൻ നിന്നോടുകൂടെ ഇരുന്നു നിന്റെ സകലശത്രുക്കളെയും നിന്റെ മുമ്പിൽനിന്നു ഛേദിച്ചുകളഞ്ഞിരിക്കുന്നു; ഭൂമിയിലുള്ള മഹാന്മാരുടെ പേർ പോലെ ഞാൻ നിന്റെ പേർ വലുതാക്കും.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "7",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "29",
   "verseNumber": "9",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

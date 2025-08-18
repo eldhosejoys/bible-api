@@ -1,7 +1,10 @@
 {
   "verse": "അവന്റെ ഗൃഹപ്രമാണികൾ അവനെ നിലത്തുനിന്നു എഴുന്നേല്പിപ്പാൻ ഉത്സാഹിച്ചുകൊണ്ടു അരികെ നിന്നു; എന്നാൽ അവന്നു മനസ്സായില്ല. അവരോടു കൂടെ ഭക്ഷണം കഴിച്ചതുമില്ല.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "12",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "31",
   "verseNumber": "17",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

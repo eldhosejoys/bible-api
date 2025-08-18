@@ -1,7 +1,10 @@
 {
   "verse": "അവൾ അവനോടു: അങ്ങനെയരുതു; നീ എന്നോടു ചെയ്ത മറ്റെ ദോഷത്തെക്കാൾ എന്നെ പുറത്താക്കിക്കളയുന്ന ഈ ദോഷം ഏറ്റവും വലുതായിരിക്കുന്നു എന്നു പറഞ്ഞു. എന്നാൽ അവന്നു അവളുടെ വാക്കു കേൾപ്പാൻ മനസ്സായില്ല.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "13",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "39",
   "verseNumber": "16",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

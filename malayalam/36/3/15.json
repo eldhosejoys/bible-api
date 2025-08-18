@@ -1,7 +1,10 @@
 {
   "verse": "യഹോവ നിന്റെ ന്യായവിധികളെ മാറ്റി, നിന്റെ ശത്രുവിനെ നീക്കിക്കളഞ്ഞിരിക്കുന്നു; യിസ്രായേലിന്റെ രാജാവായ യഹോവ നിന്റെ മദ്ധ്യേ ഇരിക്കുന്നു; ഇനി നീ അനർത്ഥം കാണുകയില്ല.",
   "book": "36",
+  "chapterCount": "3",
   "chapter": "3",
+  "verseCountInBook": "53",
+  "verseCountInChapter": "20",
   "verseNumber": "15",
   "bookNameMalayalam": "സെഫന്യാവ്",
   "bookNameEnglish": "Zephaniah",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 640-621",
   "dateInMalayalam": "ബി.സി. 640-621",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "യഹോവയുടെ ദിനം, യെഹൂദാ ജനം അവരുടെ പാപങ്ങളെക്കുറിച്ച് അനുതപിക്കുന്നില്ലെങ്കിൽ അവരുടെ മേൽ വരുന്ന ശിക്ഷ, അന്ത്യനാളുകളിൽ ദൈവം അവരുടെ മേൽ അനുഗ്രഹങ്ങൾ വർഷിക്കുമെന്നുള്ള വാഗ്ദത്തം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

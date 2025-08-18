@@ -1,7 +1,10 @@
 {
   "verse": "പുരോഹിതന്മാരും ലേവ്യരും ജനത്തിൽ ചിലരും സംഗീതക്കാരും വാതിൽ കാവൽക്കാരും ദൈവാലയദാസന്മാരും താന്താങ്ങളുടെ പട്ടണങ്ങളിൽ പാർത്തു. എല്ലായിസ്രായേല്യരും താന്താങ്ങളുടെ പട്ടണങ്ങളിൽ പാർത്തു.",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "2",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "70",
   "verseNumber": "70",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

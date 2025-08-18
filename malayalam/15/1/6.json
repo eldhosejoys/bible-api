@@ -1,7 +1,10 @@
 {
   "verse": "അവരുടെ ചുറ്റും പാർത്തവർ എല്ലാവരും കൊടുത്ത ഔദാര്യദാനങ്ങളൊക്കെയും കൂടാതെ വെള്ളികൊണ്ടുള്ള ഉപകരണങ്ങൾ, പൊന്നു മറ്റുസാധനങ്ങൾ, കന്നുകാലികൾ, വിശേഷവസ്തുക്കൾ എന്നിവകൊണ്ടും അവരെ സഹായിച്ചു.",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "1",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "11",
   "verseNumber": "6",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

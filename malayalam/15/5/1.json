@@ -1,7 +1,10 @@
 {
   "verse": "എന്നാൽ ഹഗ്ഗായിപ്രവാചകനും ഇദ്ദോവിന്റെ മകൻ സെഖര്യാവും എന്ന പ്രവാചകന്മാർ യെഹൂദയിലും യെരൂശലേമിലും ഉള്ള യെഹൂദന്മാരോടു തങ്ങളുടെമേൽ വിളിക്കപ്പെട്ട യിസ്രായേലിന്റെ ദൈവത്തിന്റെ നാമത്തിൽ പ്രവചിച്ചു.",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "5",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "17",
   "verseNumber": "1",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

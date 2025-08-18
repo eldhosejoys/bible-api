@@ -1,7 +1,10 @@
 {
   "verse": "അവർ ചുറ്റും നോക്കിയെങ്കിലും രക്ഷിപ്പാൻ ആരും ഉണ്ടായിരുന്നില്ല; യഹോവയിങ്കലേക്കു നോക്കി, അവൻ ഉത്തരം അരുളിയതുമില്ല.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "22",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "51",
   "verseNumber": "42",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

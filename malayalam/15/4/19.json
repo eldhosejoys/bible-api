@@ -1,7 +1,10 @@
 {
   "verse": "നാം കല്പന കൊടുത്തിട്ടു അവർ ശോധനചെയ്തു നോക്കിയപ്പോൾ ആ പട്ടണം പുരാതനമേ രാജാക്കന്മാരോടു എതിർത്തുനിൽക്കുന്നതു എന്നും അതിൽ മത്സരവും കലഹവും ഉണ്ടായിരുന്നു എന്നും",
   "book": "15",
+  "chapterCount": "10",
   "chapter": "4",
+  "verseCountInBook": "280",
+  "verseCountInChapter": "24",
   "verseNumber": "19",
   "bookNameMalayalam": "എസ്രാ",
   "bookNameEnglish": "Ezra",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 450 (assumption)",
   "dateInMalayalam": "ബി.സി. 450 (അനുമാനം)",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിലേക്കും, യെഹൂദായിലേക്കുമുള്ള യെഹൂദന്മാരുടെ മടങ്ങിവരവ്, ദൈവാലയത്തിന്റെ പുനർനിർമ്മാണം; യെഹൂദന്മാർ നേരിട്ട എതിർപ്പുകൾ; അവരുടെ വിജയം; സെരുബ്ബാബേലിന്റെയും, എസ്രായുടേയും നേതൃത്വം."
+  "categoryInMalayalam": "ചരിത്രം"
 }

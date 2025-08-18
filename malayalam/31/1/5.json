@@ -1,7 +1,10 @@
 {
   "verse": "കള്ളന്മാർ നിന്റെ അടുക്കൽ വന്നാലോ, രാത്രിയിൽ പിടിച്ചുപറിക്കാർ വന്നാലോ-നീ എങ്ങനെ നശിച്ചുപോയിരിക്കുന്നു-അവർ തങ്ങൾക്കു മതിയാകുവോളം മോഷ്ടിക്കയില്ലയോ? മുന്തിരിപ്പഴം പറിക്കുന്നവർ നിന്റെ അടുക്കൽ വന്നാൽ അവർ ഏതാനും കാലാപ്പഴം ശേഷിപ്പിക്കയില്ലയോ?",
   "book": "31",
+  "chapterCount": "1",
   "chapter": "1",
+  "verseCountInBook": "21",
+  "verseCountInChapter": "21",
   "verseNumber": "5",
   "bookNameMalayalam": "ഓബദ്യാവ്",
   "bookNameEnglish": "Obadiah",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 853-841",
   "dateInMalayalam": "ബി.സി. 853-841",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "യിസ്രായേൽ രാജ്യത്തോട് ക്രൂരമായി പ്രവർത്തിച്ചതിന് ഏദോം നിവാസികളുടെ മേൽ വരുന്ന ശിക്ഷ."
+  "categoryInMalayalam": "പ്രവചനം"
 }

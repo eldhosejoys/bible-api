@@ -1,7 +1,10 @@
 {
   "verse": "അതിന്നകത്തു അതിന്റെ പ്രഭുക്കന്മാർ ഗർജ്ജിക്കുന്ന സിംഹങ്ങൾ; അതിന്റെ ന്യായാധിപതിമാർ വൈകുന്നേരത്തെ ചെന്നായ്ക്കൾ; അവർ പ്രഭാതകാലത്തേക്കു ഒന്നും ശേഷിപ്പിക്കുന്നില്ല.",
   "book": "36",
+  "chapterCount": "3",
   "chapter": "3",
+  "verseCountInBook": "53",
+  "verseCountInChapter": "20",
   "verseNumber": "3",
   "bookNameMalayalam": "സെഫന്യാവ്",
   "bookNameEnglish": "Zephaniah",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 640-621",
   "dateInMalayalam": "ബി.സി. 640-621",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "യഹോവയുടെ ദിനം, യെഹൂദാ ജനം അവരുടെ പാപങ്ങളെക്കുറിച്ച് അനുതപിക്കുന്നില്ലെങ്കിൽ അവരുടെ മേൽ വരുന്ന ശിക്ഷ, അന്ത്യനാളുകളിൽ ദൈവം അവരുടെ മേൽ അനുഗ്രഹങ്ങൾ വർഷിക്കുമെന്നുള്ള വാഗ്ദത്തം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

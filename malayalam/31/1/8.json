@@ -1,7 +1,10 @@
 {
   "verse": "അന്നാളിൽ ഞാൻ എദോമിൽനിന്നു ജ്ഞാനികളെയും ഏശാവിന്റെ പർവ്വതത്തിൽ നിന്നു വിവേകത്തെയും നശിപ്പിക്കും എന്നു യഹോവയുടെ അരുളപ്പാടു.",
   "book": "31",
+  "chapterCount": "1",
   "chapter": "1",
+  "verseCountInBook": "21",
+  "verseCountInChapter": "21",
   "verseNumber": "8",
   "bookNameMalayalam": "ഓബദ്യാവ്",
   "bookNameEnglish": "Obadiah",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 853-841",
   "dateInMalayalam": "ബി.സി. 853-841",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "യിസ്രായേൽ രാജ്യത്തോട് ക്രൂരമായി പ്രവർത്തിച്ചതിന് ഏദോം നിവാസികളുടെ മേൽ വരുന്ന ശിക്ഷ."
+  "categoryInMalayalam": "പ്രവചനം"
 }

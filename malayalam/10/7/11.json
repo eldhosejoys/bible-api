@@ -1,7 +1,10 @@
 {
   "verse": "ഞാൻ നിന്റെ സകലശത്രുക്കളെയും അടക്കി നിനക്കു സ്വസ്ഥത നല്കും. അത്രയുമല്ല, യഹോവ നിനക്കു ഒരു ഗൃഹം ഉണ്ടാക്കുമെന്നു യഹോവ നിന്നോടു അറിയിക്കുന്നു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "7",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "29",
   "verseNumber": "11",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

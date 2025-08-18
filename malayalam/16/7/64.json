@@ -1,7 +1,10 @@
 {
   "verse": "ഇവർ വംശാവലിരേഖ അന്വേഷിച്ചു, കണ്ടില്ലതാനും; അതുകൊണ്ടു അവരെ അശുദ്ധരെന്നെണ്ണി പൌരോഹിത്യത്തിൽനിന്നു നീക്കിക്കളഞ്ഞു.",
   "book": "16",
+  "chapterCount": "13",
   "chapter": "7",
+  "verseCountInBook": "406",
+  "verseCountInChapter": "73",
   "verseNumber": "64",
   "bookNameMalayalam": "നെഹെമ്യാവ്",
   "bookNameEnglish": "Nehemiah",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 445-432",
   "dateInMalayalam": "ബി.സി. 445-432",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെരൂശലേമിന്റെ മതിൽ പണി; യെഹൂദന്മാർക്കുണ്ടായ എതിർപ്പ്, അവർ അതിനെ അതിജീവിക്കുന്നത്, എസ്രാ, നെഹെമ്യവ് എന്നിവരുടെ നേതൃത്വവും, ദൈവികവഴികളിൽ നില്ക്കുവാൻ ജനത്തെ സജ്ജരാക്കുന്നതുമാണ് ഈ പുസ്തകത്തിലെ പ്രധാന ചിന്താവിഷയങ്ങൾ"
+  "categoryInMalayalam": "ചരിത്രം"
 }

@@ -1,7 +1,10 @@
 {
   "verse": "സോബരാജാവായ ഹദദേസെരിനെ സഹായിപ്പാൻ ദമ്മേശെക്കിനോടു ചേർന്ന അരാമ്യർ വന്നപ്പോൾ ദാവീദ് അരാമ്യരിൽ ഇരുപത്തീരായിരംപേരെ സംഹരിച്ചു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "8",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "18",
   "verseNumber": "5",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

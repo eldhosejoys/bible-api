@@ -1,7 +1,10 @@
 {
   "verse": "എന്റെ യജമാനൻ എന്റെ കുറ്റം എനിക്കു കണക്കിടരുതേ; യജമാനനായ രാജാവു യെരൂശലേമിൽനിന്നു പുറപ്പെട്ട ദിവസം അടിയൻ ചെയ്ത ദോഷം രാജാവു മനസ്സിൽ വെക്കയും ഓർക്കയും അരുതേ.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "19",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "43",
   "verseNumber": "19",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

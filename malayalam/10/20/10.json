@@ -1,7 +1,10 @@
 {
   "verse": "എന്നാൽ യോവാബിന്റെ കയ്യിൽ വാൾ ഇരിക്കുന്നതു അമാസാ സൂക്ഷിച്ചില്ല; യോവാബ് അവനെ അതു കൊണ്ടു വയറ്റത്തു കുത്തി കുടൽ ചോർത്തിക്കളഞ്ഞു; രണ്ടാമതു കുത്തേണ്ടിവന്നില്ല; അവൻ മരിച്ചുപോയി. യോവാബും അവന്റെ സഹോദരനായ അബീശായിയും ബിക്രിയുടെ മകനായ ശേബയെ പിന്തുടർന്നു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "20",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "26",
   "verseNumber": "10",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

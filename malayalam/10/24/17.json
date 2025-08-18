@@ -1,7 +1,10 @@
 {
   "verse": "ജനത്തെ ബാധിക്കുന്ന ദൂതനെ ദാവീദ് കണ്ടിട്ടു യഹോവയോടു: ഞാനല്ലോ പാപം ചെയ്തതു; ഞാനല്ലോ കുറ്റം ചെയ്തതു; ഈ ആടുകൾ എന്തു ചെയ്തു? നിന്റെ കൈ എനിക്കും എന്റെ പിതൃഭവനത്തിന്നും വിരോധമായിരിക്കട്ടെ എന്നു പ്രാർത്ഥിച്ചുപറഞ്ഞു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "24",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "25",
   "verseNumber": "17",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

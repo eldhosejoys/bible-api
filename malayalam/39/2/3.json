@@ -1,7 +1,10 @@
 {
   "verse": "ഞാൻ നിങ്ങൾക്കുള്ള സന്തതിയെ ഭർത്സിക്കയും ചാണകം, നിങ്ങളുടെ ഉത്സവങ്ങളിലെ ചാണകം തന്നേ, നിങ്ങളുടെ മുഖത്തു വിതറുകയും അവർ നിങ്ങളെ അതിനോടുകൂടെ കൊണ്ടുപോകയും ചെയ്യും.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "2",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "17",
   "verseNumber": "3",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

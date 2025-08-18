@@ -1,7 +1,10 @@
 {
   "verse": "നമുക്കെല്ലാവർക്കും ഒരു പിതാവല്ലോ ഉള്ളതു; ഒരു ദൈവം തന്നേയല്ലോ നമ്മെ സൃഷ്ടിച്ചതു; നമ്മുടെ പിതാക്കന്മാരുടെ നിയമത്തെ അശുദ്ധമാക്കേണ്ടതിന്നു നാം അന്യോന്യം ദ്രോഹം ചെയ്യുന്നതെന്തിന്നു?",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "2",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "17",
   "verseNumber": "10",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

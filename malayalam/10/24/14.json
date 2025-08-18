@@ -1,7 +1,10 @@
 {
   "verse": "ദാവീദ് ഗാദിനോടു: ഞാൻ വലിയ വിഷമത്തിൽ ആയിരിക്കുന്നു; നാം യഹോവയുടെ കയ്യിൽ തന്നേ വീഴുക; അവന്റെ കരുണ വലിയതല്ലോ; മനുഷ്യന്റെ കയ്യിൽ ഞാൻ വീഴരുതേ എന്നു പറഞ്ഞു.",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "24",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "25",
   "verseNumber": "14",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

@@ -1,7 +1,10 @@
 {
   "verse": "എന്റെ നാമത്തെ ഭയപ്പെടുന്ന നിങ്ങൾക്കോ നീതിസൂര്യൻ തന്റെ ചിറകിൻ കീഴിൽ രോഗോപശാന്തിയോടുകൂടെ ഉദിക്കും; നിങ്ങളും പുറപ്പെട്ടു തൊഴുത്തിൽനിന്നു വരുന്ന പശുക്കിടാക്കളെപ്പോലെ തുള്ളിച്ചാടും.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "4",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "6",
   "verseNumber": "2",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }

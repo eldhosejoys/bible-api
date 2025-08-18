@@ -1,7 +1,10 @@
 {
   "verse": "കർത്താവായ യഹോവേ, ഇതും പോരാ എന്നു നിനക്കു തോന്നീട്ടു വരുവാനുള്ള ദീർഘകാലത്തേക്കു അടിയന്റെ ഗൃഹത്തെക്കുറിച്ചും നീ അരുളിച്ചെയ്തിരിക്കുന്നു. കർത്താവായ യഹോവേ, ഇതു മനുഷ്യർക്കു ഉപദേശമല്ലോ?",
   "book": "10",
+  "chapterCount": "24",
   "chapter": "7",
+  "verseCountInBook": "695",
+  "verseCountInChapter": "29",
   "verseNumber": "19",
   "bookNameMalayalam": "2 ശമൂവേൽ",
   "bookNameEnglish": "2 Samuel",
@@ -10,6 +13,5 @@
   "dateInEnglish": "Not clear",
   "dateInMalayalam": "വ്യക്തമല്ല",
   "categoryInEnglish": "History",
-  "categoryInMalayalam": "ചരിത്രം",
-  "bookSummary": "യെഹൂദയുടെയും യിസ്രായേലിന്റെയും മേൽ ദാവീദിന്റെ വാഴ്ച, അതിന്റെ മഹത്വം, വിജയം, ദാവീദിനോടുള്ള ദൈവിക ഉടമ്പടി, ദാവീദിന്റെ പാപവും, ശിക്ഷയും."
+  "categoryInMalayalam": "ചരിത്രം"
 }

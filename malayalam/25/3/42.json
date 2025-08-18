@@ -1,7 +1,10 @@
 {
   "verse": "ഞങ്ങൾ അതിക്രമം ചെയ്തു മത്സരിച്ചു; നീ ക്ഷമിച്ചതുമില്ല.",
   "book": "25",
+  "chapterCount": "5",
   "chapter": "3",
+  "verseCountInBook": "154",
+  "verseCountInChapter": "66",
   "verseNumber": "42",
   "bookNameMalayalam": "വിലാപങ്ങൾ",
   "bookNameEnglish": "Lamentations",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 556",
   "dateInMalayalam": "ബി.സി. 556",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "യെരൂശലേമിന്റെ പതനത്തെ സംബന്ധിച്ച് കവിതാശൈലിയിലുളള വർണ്ണന; പതനത്തിന്റെ കാരണം; യിരെമ്യാവിന്റെ മാനസിക വേദന; യിരെമ്യാവ് പ്രസ്താവിക്കുന്ന ആത്മിക പാഠങ്ങൾ; യിസ്രായേലിന് വേണ്ടിയുളള പ്രാർത്ഥന. വിലാപഗാനങ്ങളുടെ മധ്യേ അർത്ഥപൂർണ്ണമായ മനോഹരമായ വാക്കുകൾ 3:21-27 ൽ കാണുന്നു."
+  "categoryInMalayalam": "പ്രവചനം"
 }

@@ -1,7 +1,10 @@
 {
   "verse": "എന്നാൽ ഏശാവിനെ ഞാൻ ദ്വേഷിച്ചു അവന്റെ പർവ്വതങ്ങളെ ശൂന്യമാക്കി അവന്റെ അവകാശത്തെ മരുഭൂമിയിലെ കുറുനരികൾക്കു കൊടുത്തിരിക്കുന്നു.",
   "book": "39",
+  "chapterCount": "4",
   "chapter": "1",
+  "verseCountInBook": "55",
+  "verseCountInChapter": "14",
   "verseNumber": "3",
   "bookNameMalayalam": "മലാഖി",
   "bookNameEnglish": "Malachi",
@@ -10,6 +13,5 @@
   "dateInEnglish": "B.C. 430 (assumption)",
   "dateInMalayalam": "ബി.സി. 430 (അനുമാനം)",
   "categoryInEnglish": "Prophecy",
-  "categoryInMalayalam": "പ്രവചനം",
-  "bookSummary": "ജനങ്ങളുടെ ദുഷിച്ച ജീവിതരീതി, യോഹന്നാൻ സ്നാപകന്റെ വരവ്, ഏലിയാവ്, ക്രിസ്തു എന്നിവരുടെ വരവ്, യഹോവയുടെ ദിവസം."
+  "categoryInMalayalam": "പ്രവചനം"
 }
