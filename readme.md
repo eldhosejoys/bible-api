@@ -41,7 +41,7 @@ Getting bible verse data as json.
 ##### Example:
 
 ```http
-  GET /cross-reference/1.json
+  GET /cross-reference/45.json
 ```
 
 #### Supported Languages
