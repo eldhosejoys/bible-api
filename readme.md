@@ -33,6 +33,17 @@ Getting bible verse data as json.
   GET /45/summary.json
 ```
 
+#### Get Cross-reference:
+
+```http
+  GET /cross-reference/{book-number}.json
+```
+##### Example:
+
+```http
+  GET /cross-reference/1.json
+```
+
 #### Supported Languages
 
 - malayalam
